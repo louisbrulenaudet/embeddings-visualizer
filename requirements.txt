@@ -1,0 +1,7 @@
+datasets
+faiss-cpu
+numpy
+plotly
+scikit-learn
+tqdm
+umap-learn
