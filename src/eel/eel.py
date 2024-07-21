@@ -719,4 +719,9 @@ class EEL:
 
             logger.info(f"Visualization saved as {html_file_name}")
 
-       
+        fig.show(
+            config={
+                "displayModeBar": False,
+                "scrollZoom": True
+            }
+        )
